@@ -13,4 +13,4 @@ output:
     include:
       after_body: footer.html
     css: styles.css
-output_dir: "."
+output_dir: "docs"
