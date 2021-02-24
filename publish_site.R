@@ -1,2 +1,2 @@
 # Render the site
-rmarkdown::render_site(quiet = TRUE)
+rmarkdown::render_site()
