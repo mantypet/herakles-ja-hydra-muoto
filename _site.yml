@@ -1,17 +1,17 @@
 name: "my-website"
 navbar:
-  title: "My Website"
+  title: "Herakles ja Hydra-muoto"
   left:
-    - text: "Home"
+    - text: "Hydra-demo"
       href: index.html
-    - text: "About"
+    - text: "Sivustosta"
       href: about.html
 output:
   html_document:
     toc: true
     toc_float: true
-    theme: cosmo
-    highlight: textmate
+    theme: paper
+    highlight: tango
     include:
       after_body: footer.html
     css: styles.css
