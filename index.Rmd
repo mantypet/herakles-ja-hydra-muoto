@@ -2,7 +2,7 @@
 title: "Hydra-demo"
 ---
 
-### THL:n avoimen rajapinnan arkikäyttö
+### THL:n avoin ohjelmointirajapinta
 
 THL julkaisee aineistoja avoimen ohjelmointirajapinnan kautta. [https://yhteistyotilat.fi/wiki08/display/THLKA/THL%3An+avoimen+datan+rajapinnan+kuvaus](Avoimen datan rajapinnan kuvausta lainaten) lainaten,
 
@@ -10,4 +10,7 @@ THL julkaisee aineistoja avoimen ohjelmointirajapinnan kautta. [https://yhteisty
 
 Tutkijana eksyy helposti teknisiin yksityiskohtiin ja nekin asiat, joiden ei tarvitsisi olla vaikeita, saadaan vaikuttamaan sellaisilta. Joskus tekosyynä on kiire, joskus taas asia on niin siisti, että on vaikea hyväksyä, ettei yleisö ole välttämättä kiinnostunut siitä, kuinka todella siisti juttu Hydra-tietomuoto on -- tiesitkö, että se on THL:n in-house tuontantoa? Hydra on looginen kokoelma kuutioita ... kuutio, moniulotteisen datan käsitteistössä fakta, on looginen tietokokonaisuus, joka... *heinäsirkkojen siritystä.
 
-Siispä pyrin esittelemään käytännönläheisen tavan muodostaa aineistohakuja täysin ei-ohjelmallisesta näkökulmasta ja, paremman ilmaisun puuttuessa, puoli-ohjelmallisesta näkökulmasta. 
+Siispä pyrin esittelemään käytännönläheisen tavan muodostaa aineistohakuja täysin ei-ohjelmallisesta näkökulmasta ja, paremman ilmaisun puuttuessa, puoli-ohjelmallisesta näkökulmasta.
+
+
+### Loitsuja arkikäyttöön

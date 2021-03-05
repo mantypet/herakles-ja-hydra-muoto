@@ -2,3 +2,12 @@
 title: "Sivustosta"
 ---
 
+### Kirjoittajasta
+
+Työskentelen tilastotutkijana terveyden ja hyvinvoinninlaitoksella ja viimeisen vuoden aikana työni on sivunnut kevyellä kosketuksella myös THL:n avointa ohjelmointirajapintaa ja sen kautta julkaistavia aineistoja.
+
+Teknisestä näkökulmasta rajapinnan kuvauksen tulee olla hyvin tekninen, formaali ja sisältöön mahdollisimman vähän kantaaottava. Siispä kuvauksesta ei ollut juurikaan apua paikallislehden toimittajalle, joka kaipasi Satakunnan vahvistettujen koronatapausten lukumäärän viikoittain.
+
+Kiitos kyseisen narratiiviseksi tehokeinoksi tarkoitetun fiktiivisen journalistin ja muun aktiivisen (havaitun) yleisön, haaviin on tarttunut muutamia käyttäjien elämää helpottaneita loitsuja, joita jaan tässä dokumentissa. Samalla pääsen puuhastelemaan R:n parissa myös vapaa-ajalla, jota avovaimokin katsoo sormiensa läpi, kun mainitsen asian liittyvän ammatilliseen blogikirjoitukseen.
+
+Petteri
